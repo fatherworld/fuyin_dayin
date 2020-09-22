@@ -10,6 +10,21 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="entryMain.cpp" />
+    <ClCompile Include="fileddl.cpp" />
+    <ClCompile Include="imgProcess.cpp" />
+    <ClCompile Include="prasexml.cpp" />
+    <ClCompile Include="processImg.cpp" />
+    <ClCompile Include="statistics.cpp" />
+    <ClCompile Include="Test.cpp" />
+    <ClCompile Include="TestOnePic.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="fileddl.h" />
+    <ClInclude Include="prasexml.h" />
+    <ClInclude Include="processImg.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{9B453653-75EB-4F35-8A7B-678C52B3D1B9}</ProjectGuid>
     <RootNamespace>fuyin_dayin_different0</RootNamespace>
@@ -64,21 +79,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\entryMain.cpp" />
-    <ClCompile Include="..\fileddl.cpp" />
-    <ClCompile Include="..\imgProcess.cpp" />
-    <ClCompile Include="..\prasexml.cpp" />
-    <ClCompile Include="..\processImg.cpp" />
-    <ClCompile Include="..\statistics.cpp" />
-    <ClCompile Include="..\Test.cpp" />
-    <ClCompile Include="..\TestOnePic.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\fileddl.h" />
-    <ClInclude Include="..\prasexml.h" />
-    <ClInclude Include="..\processImg.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -18,39 +18,39 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\entryMain.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\fileddl.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\imgProcess.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\prasexml.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\processImg.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\statistics.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\TestOnePic.cpp">
+    <ClCompile Include="Test.cpp">
       <Filter>测试</Filter>
     </ClCompile>
-    <ClCompile Include="..\Test.cpp">
+    <ClCompile Include="TestOnePic.cpp">
       <Filter>测试</Filter>
+    </ClCompile>
+    <ClCompile Include="entryMain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fileddl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="imgProcess.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="prasexml.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="processImg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="statistics.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\fileddl.h">
+    <ClInclude Include="fileddl.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\prasexml.h">
+    <ClInclude Include="prasexml.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\processImg.h">
+    <ClInclude Include="processImg.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,32 +1,12 @@
-﻿生成启动时间为 2020/9/21 18:49:06。
+﻿生成启动时间为 2020/9/22 17:52:22。
      1>项目“C:\Users\Administrator\Documents\Visual Studio 2010\Projects\fuyin_dayin\fuyin_dayin_different0\fuyin_dayin_different0\fuyin_dayin_different0.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
-         正在对“Debug\fuyin_dayin_different0.unsuccessfulbuild”执行 Touch 任务。
+         正在创建“Debug\fuyin_dayin_different0.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
        ClCompile:
-         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\Administrator\Documents\Visual Studio 2010\Projects\测试打印与复印件的区别\3thrids\build_3libs\TinyXml\include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\processImg.cpp
-         processImg.cpp
-     1>c:\users\administrator\documents\visual studio 2010\projects\fuyin_dayin\fuyin_dayin_different0\processimg.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\administrator\documents\visual studio 2010\projects\fuyin_dayin\fuyin_dayin_different0\processimg.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\administrator\documents\visual studio 2010\projects\fuyin_dayin\fuyin_dayin_different0\processimg.cpp(52): warning C4018: “>=”: 有符号/无符号不匹配
-     1>c:\users\administrator\documents\visual studio 2010\projects\fuyin_dayin\fuyin_dayin_different0\processimg.cpp(151): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\administrator\documents\visual studio 2010\projects\fuyin_dayin\fuyin_dayin_different0\processimg.cpp(242): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\administrator\documents\visual studio 2010\projects\fuyin_dayin\fuyin_dayin_different0\processimg.cpp(315): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-     1>c:\users\administrator\documents\visual studio 2010\projects\fuyin_dayin\fuyin_dayin_different0\processimg.cpp(454): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\administrator\documents\visual studio 2010\projects\fuyin_dayin\fuyin_dayin_different0\processimg.cpp(459): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\administrator\documents\visual studio 2010\projects\fuyin_dayin\fuyin_dayin_different0\processimg.cpp(463): warning C4018: “<”: 有符号/无符号不匹配
+         所有输出均为最新。
        Link:
-         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Documents\Visual Studio 2010\Projects\fuyin_dayin\fuyin_dayin_different0\Debug\fuyin_dayin_different0.exe" /NOLOGO /LIBPATH:C:\sofo\vs_plugins\3thirds\opencv\x86\vc10\lib /LIBPATH:"C:\Users\Administrator\Documents\Visual Studio 2010\Projects\测试打印与复印件的区别\3thrids\build_3libs\TinyXml\libs" opencv_calib3d2411d.lib opencv_contrib2411d.lib opencv_core2411d.lib opencv_features2d2411d.lib opencv_flann2411d.lib opencv_gpu2411d.lib opencv_highgui2411d.lib opencv_imgproc2411d.lib opencv_legacy2411d.lib opencv_ml2411d.lib opencv_nonfree2411d.lib opencv_objdetect2411d.lib opencv_ocl2411d.lib opencv_photo2411d.lib opencv_stitching2411d.lib opencv_superres2411d.lib opencv_ts2411d.lib opencv_video2411d.lib opencv_videostab2411d.lib tinyxml.lib tinyxmlSTL.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\fuyin_dayin_different0.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\Documents\Visual Studio 2010\Projects\fuyin_dayin\fuyin_dayin_different0\Debug\fuyin_dayin_different0.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Documents\Visual Studio 2010\Projects\fuyin_dayin\fuyin_dayin_different0\Debug\fuyin_dayin_different0.lib" /MACHINE:X86 Debug\entryMain.obj
-         Debug\fileddl.obj
-         Debug\imgProcess.obj
-         Debug\prasexml.obj
-         Debug\processImg.obj
-         Debug\statistics.obj
-         Debug\Test.obj
-         Debug\TestOnePic.obj
-     1>LINK : warning LNK4098: 默认库“LIBCMTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+         所有输出均为最新。
          fuyin_dayin_different0.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2010\Projects\fuyin_dayin\fuyin_dayin_different0\Debug\fuyin_dayin_different0.exe
-       Manifest:
-         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Administrator\Documents\Visual Studio 2010\Projects\fuyin_dayin\fuyin_dayin_different0\Debug\fuyin_dayin_different0.exe;#1" /manifest Debug\fuyin_dayin_different0.exe.intermediate.manifest
        FinalizeBuildStatus:
          正在删除文件“Debug\fuyin_dayin_different0.unsuccessfulbuild”。
          正在对“Debug\fuyin_dayin_different0.lastbuildstate”执行 Touch 任务。
@@ -34,4 +14,4 @@
 
 生成成功。
 
-已用时间 00:00:03.14
+已用时间 00:00:00.05
